@@ -59,7 +59,8 @@ class App extends Component {
               }
         </div>
         <Footer/>
-        
+        <p>Wagdi</p>
+
 
       </div>
     );
